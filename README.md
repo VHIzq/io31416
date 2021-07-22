@@ -2,7 +2,7 @@
 
 ### I'm a biological molecular Postgrade &  Full Stack Dev learner with passion!
 - ☕ I'm currently learning JS while thinking and applying Clean Code.
-- 🛸 I'm learning to master VUE.JS for get React later with a deeper understanding.
+- 🛸 I'm learning to master VUE.JS and React later with a deeper understanding.
 - 🌡 I'm re-discovering my passion for coding with a social cause.
 - ☄ 2020 goals: get certificated by FCC as a Full Stack Dev & contribute to programming projects related to health and enviroment issues.
 - 🚀 I love learning about physics, chemistry and coding stuffs. Now I'm studing about cloud seeding! (it's related with ML).
