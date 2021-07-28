@@ -1,7 +1,7 @@
 ### Hi there, I'm Víctor 👨‍🚀 (io31416) ☃ ...doing #100daysOfCode
 
 ### I'm a biological molecular Postgrade &  Full Stack Dev learner with passion!
-- ☕ I'm currently learning JS while thinking and applying Clean Code practices
+- ☕ I'm currently learning JS while thinking and applying Clean Code practices.
 - 🛸 I'm learning to master VUE.JS and React later with a deeper understanding.
 - 🌡 I'm re-discovering my passion for coding with a social cause.
 - ☄ 2020 goals: get certificated by FCC as a Full Stack Dev & contribute to programming projects related to health and enviroment issues.
